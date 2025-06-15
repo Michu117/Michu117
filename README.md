@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://github.com/Michu117/Michu117/blob/main/resources/gifs/haloce%20sun.gif"  />
+  <img height="350" src="resources/gifs/haloce%20sun.gif" />
 </div>
 
 ###
