@@ -40,9 +40,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Michu117/Michu117/blob/main/resources/svg/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Michu117/Michu117/blob/main/resources/svg/pacman.svg">
-  <img alt="pacman contribution graph" src="https://github.com/Michu117/Michu117/blob/main/resources/svg/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="resources/svg/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="resources/svg/pacman.svg">
+  <img alt="pacman contribution graph" src="resources/svg/pacman.svg">
 </picture>
 
 ###
